@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 13,
         "location": 0
       }
     ],
-    "string": "Główna"
+    "string": "Zmiana\ngłówna"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "BD09D111-B036-4B6C-8B2B-EB1D95D832AE",
@@ -49,19 +49,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 120,
-    "width": 340,
+    "height": 240,
+    "width": 334,
     "x": 332,
     "y": 261
   },
-  "glyphBounds": "{{4, 23}, {333, 76}}",
+  "glyphBounds": "{{2, 25}, {330, 215}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Główna",
+  "name": "Zmiana główna",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
