@@ -1,9 +1,8 @@
 {
   "_class": "page",
-  "do_objectID": "E997ED47-D618-45C3-9CE8-7A2E5BDB220B",
+  "do_objectID": "07912012-1BE6-49BA-BF74-1010F6094123",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "79833EA5-E4AD-47B3-ABCB-94C29B2C17D9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -14,7 +13,6 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "2164DF5D-BA6D-45BA-A908-5497358FC1EF",
     "height": 300,
     "width": 300,
     "x": 0,
@@ -23,8 +21,7 @@
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
-    "do_objectID": "25D27707-ABF8-4065-BC66-3BE6A58ABBD3",
+    "base": -535,
     "guides": [
     ]
   },
@@ -37,7 +34,7 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "0C2286EC-3B8B-4489-873C-642C2798C46B"
+      "id": "379878E4-7683-4C94-8D49-FC33ED5A5E60"
     }
   ],
   "name": "Moje konto",
@@ -48,15 +45,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "E93B9397-701F-405B-92E4-C2BD31AA1864",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
   },
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
-    "do_objectID": "BB28FF2B-B89C-4382-A984-DF15649B795E",
+    "base": -408,
     "guides": [
     ]
   }
