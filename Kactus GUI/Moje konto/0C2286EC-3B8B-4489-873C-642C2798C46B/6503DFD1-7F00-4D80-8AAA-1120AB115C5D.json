@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Główna"
+    "string": "Moje\nkonto"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "6503DFD1-7F00-4D80-8AAA-1120AB115C5D",
@@ -51,19 +51,19 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EFCE5A9E-1CD4-4B41-938A-A8E610A1A37A",
-    "height": 120,
-    "width": 340,
+    "height": 240,
+    "width": 245,
     "x": 332,
     "y": 261
   },
-  "glyphBounds": "{{4, 23}, {333, 76}}",
+  "glyphBounds": "{{6, 25}, {235, 194}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Główna",
+  "name": "Moje konto",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
