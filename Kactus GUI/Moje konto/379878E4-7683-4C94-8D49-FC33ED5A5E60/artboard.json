@@ -4,14 +4,14 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "3B9D468E-7523-4F65-906D-CD0AF9D09111",
+    "do_objectID": "87991887-763D-455C-85D3-8083113082DE",
     "green": 1,
     "red": 1
   },
-  "do_objectID": "0C2286EC-3B8B-4489-873C-642C2798C46B",
+  "do_objectID": "379878E4-7683-4C94-8D49-FC33ED5A5E60",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1F5F862C-3ED6-4B0D-BF73-AC3538C185CD",
+    "do_objectID": "6203DC8C-5061-4FCE-ACFC-6AFACAE00DB9",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,7 +22,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "DD299F30-73BF-441F-ABB7-F19F84E39A36",
+    "do_objectID": "0503B1DC-46B7-42D8-9840-0D75DD71FB95",
     "height": 768,
     "width": 1366,
     "x": -344,
@@ -33,7 +33,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "3DB9BCCD-7958-4F73-8FDA-5F673E884125",
+    "do_objectID": "AC465B0F-E186-4224-AEB0-9ECBADCE4520",
     "guides": [
     ]
   },
@@ -48,10 +48,10 @@
   "layers": [
     {
       "class": "text",
-      "id": "6503DFD1-7F00-4D80-8AAA-1120AB115C5D"
+      "id": "CE4B8DB2-2625-407B-8009-8C90B23671D9"
     }
   ],
-  "name": "Strona główna",
+  "name": "Moje konto",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -67,7 +67,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "387F1292-290A-4E3F-97EA-602D0795942A",
+    "do_objectID": "BDA98384-E4AB-4B20-92E0-FBF7A7BDD5FD",
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
@@ -75,7 +75,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "F051635A-34CF-4FCA-9BC4-E8ED0A83CC9C",
+    "do_objectID": "984C4F2C-85AC-48CB-A465-066CE6BA5B20",
     "guides": [
     ]
   }
