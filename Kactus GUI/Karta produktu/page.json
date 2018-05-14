@@ -32,6 +32,10 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "artboard",
+      "id": "F13509B0-908B-44EB-B561-275F2BEE29DF"
+    }
   ],
   "name": "Karta produktu",
   "nameIsFixed": true,
